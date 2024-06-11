@@ -11,7 +11,7 @@ First be sure you have an actual DSi unit. You can tell if your handheld is a DS
 
 Assuming you have such a DSi unit, the easiest way to get my emulators running is using the 'Camera Exploit' via the SD card. 
 
-First you will need a standard SD card - anything from about 1GB to 16GB should work fine. I tend to use smaller cards from either Sandisk or Toshiba. These 4GB cards will hold every classic game many times over and generaly won't cause any compatibility problems with the DSi. Here is an example of a card that I've used:
+First you will need a standard SD card - anything from about 1GB to 16GB should work fine. I tend to use smaller capacity SD cards from either Sandisk or Toshiba. These 4GB cards will hold every classic game many times over and generaly won't cause any compatibility problems with the DSi. Here is an example of a card that I've used:
 
 ![SD Card](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/sdcard.png)
 
