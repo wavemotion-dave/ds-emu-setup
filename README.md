@@ -5,7 +5,7 @@ In order to get homebrew emulators working on your DSi handheld, you will need s
 
 # DSi Setup
 
-First be sure you have an actual DSi unit. You can tell if your handheld is a DSi mainly by the presence of a _full-sized_ SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom (with or without the XL/LL text depending on the vintage of the DSi):
+First be sure you have an actual DSi unit. You can tell if your handheld is a DSi mainly by the presence of a _full-sized_ SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom (with or without the XL/LL text depending on the size of the DSi handheld):
 
 ![DSi Logo](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/dsi-logo.png)
 
