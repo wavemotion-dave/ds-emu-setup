@@ -4,7 +4,6 @@ This guide is intended to help users of my emulators get it running on their DSi
 In order to get homebrew emulators working on your DSi handheld, you will need some way of launching the emulators. This is normally done with some kind of exploit (or custom firmware - not covered by this guide).
 
 # DSi Setup
-----------------------------
 
 First be sure you have an actual DSi unit. You can tell if your handheld is a DSi mainly by the presence of a _full-sized_ SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom (with or without the XL/LL text depending on the vintage of the DSi):
 
@@ -21,7 +20,6 @@ Then I recommend you use the Standard SD Card formatter (not Windows format) to 
 Once properly formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from this  github archive above in **TWL-Template.zip**  - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. In the 'roms' directory you will find other subdirectories to put your games.
 
 # Using the DSi and Launching Emulators
-----------------------------
 
 * Make sure the SD card is in the DSi unit (properly formatted as described above).
 * Turn on the DSi and navigate to the Camera Icon.
