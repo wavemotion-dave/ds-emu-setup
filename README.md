@@ -1,41 +1,32 @@
-# DS / DSi / XL,LL Emulator Setup
-This guide is intended to help users of my emulators get it running on their DS handheld systems.
+# DSi (or DSi XL,LL) Emulator Setup
+This guide is intended to help users of my emulators get it running on their DSi handheld system. This guide is not for the older DS-Lite/Phat (original DS units without an SD card slot) or for the later models (2DS/3DS/XL/LL). My emulators will run on those devices - but it requires either a flash cart (R4 or similar) or some other exploit that I'm not going to get into.
 
 In order to get homebrew emulators working on your DS handheld, you will need some way of launching the emulators. This is normally done with some kind of exploit - though that term is used loosely here.
 
-# Types of DS Handhelds vs Exploits
-
-* Original DS-Phat or DS-Lite ... the only way to play is to use a flash-cart such as the R4 (or clone). These flash-carts have a micro SD card where you can load the emulators (my emulators are single .nds files ... so just the one file is needed per emulator).
-* DSi (or DSi XL/LL) ... this is the easiest as it can be booted directly from the SD card slot (on the right side of the unit) using a 'Camera Exploit' and Twilight Menu++. See below.
-* 2DS, 3DS or 3DS XL ... this is above my pay-grade. An R4 flash cart can be used but will not allow for the faster CPU to improve the emulation experience (flash carts run in 'DS Compatibility Mode'). Twilight Menu++ can be installed but that exercise is left to the reader,
-
-# DSi / DSi XL/LL Setup
+# DSi Setup
 ----------------------------
-* This is not for the older DS-Phat / Lite which does not have an SD Card slot on the right-hand side of the handheld.
-* This is not for the newer 2DS / 3DS handhelds which requires more advanced handling.
-* This is only for the DSi handheld (or the DSi XL/LL which is my recommended model for the slightly larger size).
 
-You can tell if your handheld is a DSi mainly by the presence of an SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom (with or without the XL/LL text depending on the vintage of the DSi):
+First be sure you have an actual DSi unit. You can tell if your handheld is a DSi mainly by the presence of a _full-sized_ SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom (with or without the XL/LL text depending on the vintage of the DSi):
 
 ![DSi Logo](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/dsi-logo.png)
 
 Assuming you have such a DSi unit, the easiest way to get my emulators running is using the 'Camera Exploit' via the SD card. 
 
-First you will need a standard SD card - anything from about 1GB to 16GB should work fine. I tend to use smaller cards from either Sandisk or Toshiba. These 4GB cards will hold every classic game many times over:
+First you will need a standard SD card - anything from about 1GB to 16GB should work fine. I tend to use smaller cards from either Sandisk or Toshiba. These 4GB cards will hold every classic game many times over and generaly won't cause any compatibility problems with the DSi. Here is an example of a card that I've used:
 
 ![SD Card](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/sdcard.png)
 
-Then I recommend you use the standard SD Card formatter (not Windows format) to erase the card and provide for standard 32K sectors which is exactly what the DSi is expecting:  https://www.sdcard.org/downloads/formatter/ (this is directly from the SD Card association and will ensure your card is formatted perfectly for DSi use).
+Then I recommend you use the Standard SD Card formatter (not Windows format) to erase the card and provide for standard 32K sectors which is exactly what the DSi is expecting. I use the standard SD card formatter provided by the official SD Card association here: https://www.sdcard.org/downloads/formatter/
 
-Once formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from the github archive above in **TWL-Template.zip**  - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. In the 'roms' directory you will find other subdirectories to put your games.
+Once properly formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from this  github archive above in **TWL-Template.zip**  - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. In the 'roms' directory you will find other subdirectories to put your games.
 
 # Using the DSi and Launching Emulators
 ----------------------------
 
 * Turn on the DSi and navigate to the Camera Icon.
 * Select the Camera Icon and then click in the upper-right to select the 'SD CARD'
-* There should be one and only one 'picture' on the SD card - this is the Camera Exploit.
-* Press the 'Album' containing the one 'picture' - this will launch the Camera Exploit and get you into the menu system.
+* There should be one and only one 'picture' in the SD card 'Album' - this is the Camera Exploit.
+* Press the 'Album' icon containing the one 'picture' - this will launch the Camera Exploit and get you into the menu system.
 
 ![Camera](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/camera.png)
 
