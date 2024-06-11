@@ -1,7 +1,7 @@
 # DSi (or DSi XL,LL) Emulator Setup
-This guide is intended to help users of my emulators get it running on their DSi handheld system. This guide is not for the older DS-Lite/Phat (original DS units without an SD card slot) or for the later models (2DS/3DS/XL/LL). My emulators will run on those devices - but it requires either a flash cart (R4 or similar) or some other exploit that I'm not going to get into.
+This guide is intended to help users of my emulators get it running on their DSi handheld system. This guide is not for the older DS-Lite/Phat (original DS units without an SD card slot) or for the later models (2DS/3DS/XL/LL). My emulators will run on those devices - but it requires either a flash cart (R4 or similar) or some other exploit that I'm not going to get into here.
 
-In order to get homebrew emulators working on your DS handheld, you will need some way of launching the emulators. This is normally done with some kind of exploit - though that term is used loosely here.
+In order to get homebrew emulators working on your DSi handheld, you will need some way of launching the emulators. This is normally done with some kind of exploit (or custom firmware - not covered by this guide).
 
 # DSi Setup
 ----------------------------
