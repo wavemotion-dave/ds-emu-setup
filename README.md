@@ -26,11 +26,15 @@ First you will need a standard SD card - anything from about 1GB to 16GB should 
 
 Then I recommend you use the standard SD Card formatter (not Windows format) to erase the card and provide for standard 32K sectors which is exactly what the DSi is expecting:  https://www.sdcard.org/downloads/formatter/ (this is directly from the SD Card association and will ensure your card is formatted perfectly for DSi use).
 
-Once formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. 
+Once formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from the github archive above in **TWL-Template.zip**  - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. In the 'roms' directory you will find other subdirectories to put your games.
 
 # Using the DSi and Launching Emulators
 ----------------------------
 
+Turn on the DSi and navigate to the Camera Icon.
+Select the Camera Icon and then click in the upper-right to select the 'SD CARD'
+There should be one and only one 'picture' on the SD card - this is the Camera Exploit.
+Press the 
 ![Camera](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/camera.png)
 
 ![TWL Menu](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/menu.png)
