@@ -14,7 +14,7 @@ In order to get homebrew emulators working on your DS handheld, you will need so
 This is not for the older DS-Phat / Lite which does not have an SD Card slot on the right-hand side of the handheld.
 This is not for the newer 2DS / 3DS handhelds which requires more advanced handling.
 This is only for the DSi handheld (or the DSi XL/LL which is my recommended model for the slightly larger size).
-You can tell if your handheld is a DSi mainly by the presence of an SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom:
+You can tell if your handheld is a DSi mainly by the presence of an SD card slot on the right-side of the unit... but there is also a specific DSi logo imprinted on the bottom (with or without the XL/LL text depending on the vintage of the DSi):
 
 ![DSi Logo](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/dsi-logo.png)
 
@@ -24,6 +24,12 @@ First you will need a standard SD card - anything from about 1GB to 16GB should 
 
 ![SD Card](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/sdcard.png)
 
+Then I recommend you use the standard SD Card formatter (not Windows format) to erase the card and provide for standard 32K sectors which is exactly what the DSi is expecting:  https://www.sdcard.org/downloads/formatter/ (this is directly from the SD Card association and will ensure your card is formatted perfectly for DSi use).
+
+Once formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. 
+
+# Using the DSi and Launching Emulators
+----------------------------
 
 ![Camera](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/camera.png)
 
