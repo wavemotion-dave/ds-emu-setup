@@ -23,6 +23,7 @@ Once properly formatted, you need to install the TWL++ menu software, the camera
 # Using the DSi and Launching Emulators
 ----------------------------
 
+* Make sure the SD card is in the DSi unit (properly formatted as described above).
 * Turn on the DSi and navigate to the Camera Icon.
 * Select the Camera Icon and then click in the upper-right to select the 'SD CARD'
 * There should be one and only one 'picture' in the SD card 'Album' - this is the Camera Exploit.
