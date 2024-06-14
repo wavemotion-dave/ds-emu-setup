@@ -40,7 +40,7 @@ It's possible that you have an older DSi that needs an older Camera Exploit.
 
 If that's the case, download this older pit.bin:  https://dsi.cfw.guide/assets/files/memory_pit/256/pit.bin 
 
-And on the SD card, place it into the **/TWL-Template/private/ds/app/484E494A$ ** directory (replacing the version that is in there).
+And on the SD card, place it into the /TWL-Template/private/ds/app/484E494A$ directory (replacing the version that is in there).
 
 And try again!
 
