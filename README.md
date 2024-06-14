@@ -33,5 +33,15 @@ Once you are in the menu system, you can navigate to select the emulator of choi
 
 ![TWL Menu](https://github.com/wavemotion-dave/ds-emu-setup/blob/main/png/menu.png)
 
-
 Enjoy!
+
+# Addendum - if it doesn't work
+It's possible that you have an older DSi that needs an older Camera Exploit.
+
+If that's the case, download this older pit.bin:  https://dsi.cfw.guide/assets/files/memory_pit/256/pit.bin 
+
+And on the SD card, place it into the **/TWL-Template/private/ds/app/484E494A$ ** directory (replacing the version that is in there).
+
+And try again!
+
+
