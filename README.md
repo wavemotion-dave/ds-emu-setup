@@ -19,6 +19,8 @@ Then I recommend you use the Standard SD Card formatter (not Windows format) to 
 
 Once properly formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from this link:  [TWL-Template.zip](https://fastupload.io/d69d609f004799ce) - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. In the 'roms' directory you will find other subdirectories to put your games.
 
+**Warning:** In this zip file I've included the Unlaunch custom firmware application. Do not run this unless you know you want to update your stock DSi firmware. I take no responsibility for you running it.
+
 # Using the DSi and Launching Emulators
 
 * Make sure the SD card is in the DSi unit (properly formatted as described above).
