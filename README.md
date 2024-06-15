@@ -36,9 +36,9 @@ Once you are in the menu system, you can navigate to select the emulator of choi
 Enjoy!
 
 # Addendum - if it doesn't work
-It's possible that you have an older DSi that needs an older Camera Exploit.
+It's possible that you have a DSi that needs an different Camera Exploit.  There are two (I provided the more common of the two in my ZIP file above)
 
-If that's the case, download this older pit.bin:  https://dsi.cfw.guide/assets/files/memory_pit/256/pit.bin 
+If that's the case, download this alternate pit.bin file:  https://dsi.cfw.guide/assets/files/memory_pit/256/pit.bin 
 
 And on the SD card, place it into the /TWL-Template/private/ds/app/484E494A$ directory (replacing the version that is in there).
 
