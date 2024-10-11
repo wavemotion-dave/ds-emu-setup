@@ -17,7 +17,7 @@ First you will need a standard SD card - anything from about 1GB to 16GB should 
 
 Then I recommend you use the Standard SD Card formatter (not Windows format) to erase the card and provide for standard 32K sectors which is exactly what the DSi is expecting. I use the standard SD card formatter provided by the official SD Card association here: https://www.sdcard.org/downloads/formatter/
 
-Once properly formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from this link:  [TWL-Template.zip](https://fastupload.io/5a317c402c4e4fb6) - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. 
+Once properly formatted, you need to install the TWL++ menu software, the camera exploit and setup the directories for gaming use. I've provided a ready-to-unzip snapshot of a virgin system (no game ROMs) to help you. You can download that from this link:  [TWL-Template.zip](https://fastupload.io/6bbcd443467d8fea) - unzip this to the root directory of your SD card such that the root of that card has BOOT.NDS, my emulators (.NDS files) and about a half-dozen sub-directories. 
 
 * In the 'roms' directory you will find other subdirectories to put your games.
 * Many of my emulators require BIOS files for the given system (e.g. for Intellivision will need, at least, exec.bin and grom.bin). These must be placed in the /roms/bios folder.
